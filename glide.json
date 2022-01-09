@@ -1,5 +1,4 @@
-[
-  {
+{
     "kind": "column",
     "name": "API JSON",
     "description": "Get JSON from AzuraCAst API",
@@ -15,4 +14,3 @@
       "type": "string"
     }
   }
-]
