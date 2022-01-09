@@ -8,7 +8,7 @@
       {
         "name": "station_id",
         "displayName": "Station ID",
-        "type": "string
+        "type": "string"
       }
     ],
     "result": {
