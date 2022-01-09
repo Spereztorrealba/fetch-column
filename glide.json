@@ -1,15 +1,16 @@
 {
-    "name": "API JSON",
-    "description": "Get JSON from AzuraCAst API",
-    "author": "Santiago Perez <perez1981santiago@gmail.com>",
-    "params": [
-      {
-        "name": "station_id",
-        "displayName": "Station ID",
-        "type": "string"
-      }
-    ],
-    "result": {
+  "kind": "column",
+  "name": "Get Json",
+  "description": "Get Json from AzuraCast API",
+  "author": "Santiago Perez",
+  "params": [
+    {
+      "name": "Station_ID",
+      "displayName": "Station ID",
       "type": "string"
     }
+  ],
+  "result": {
+    "type": "string"
   }
+}
