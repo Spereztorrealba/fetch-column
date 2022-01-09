@@ -1,4 +1,4 @@
-const run: glide.Column = async (url, query) => {
+window.function = function (url, query) => {
     if (url.value === undefined) {
         return undefined;
     }
